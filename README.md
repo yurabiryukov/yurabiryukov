@@ -29,7 +29,8 @@
     <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="35" />
     <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="35" />
     <img src="https://img.shields.io/badge/-DevTools-1E90FF?style=for-the-badge&logo=googlechrome&logoColor=white" height="35" />
-    <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" height="35" /><br>
+    <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" height="35" />
+    <img src="https://img.shields.io/badge/DBeaver-FF6B6B?style=for-the-badge&logo=dbeaver&logoColor=white" height="35" /><br>
     <img src="https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" height="35" />
     <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="35" />
     <img src="https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" height="35" />
