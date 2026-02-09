@@ -13,6 +13,7 @@
 - Работать с DevTools, Postman
 - Составлять баг-репорты в Jira
 - Писать SQL-запросы к БД
+- Анализировать логи и локализовать баги в Kibana
 
 **Дополнительно**: интересуюсь автоматизацией тестирования (Python/Selenium), но в данный момент фокус на углублении навыков ручного тестирования.
 
@@ -37,6 +38,7 @@
     <img src="https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" height="35" />
     <img src="https://img.shields.io/badge/-Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" height="35" />
     <img src="https://img.shields.io/badge/TMS-4A90E2?style=for-the-badge" height="35" />
+    <img src="https://img.shields.io/badge/-Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" height="35" />
 </p>
 
 ---
