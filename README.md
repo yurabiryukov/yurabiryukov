@@ -46,6 +46,6 @@
 ### Сертификаты:
 - [**Функциональное программирование на Python**](https://stepik.org/cert/2853958) — Stepik  
 - [**Интерактивный тренажер по SQL**](https://stepik.org/cert/2651538) — Stepik  
-- [**Тестирование ПО с нуля. Теория + практика. Уровень PRO**](https://stepik.org/cert/3029211) — Stepik 
+- [**Тестирование ПО с нуля. Теория + практика. Продвинутый уровень**](https://stepik.org/cert/3029211) — Stepik 
 - [**Тестирование ПО: Автоматизация и Программирование. Python. Selenium**](https://stepik.org/cert/2997534) — Stepik 
 - [**Тестирование ПО: Автоматизация и Программирование. Python. API**](https://stepik.org/cert/3008347) — Stepik
