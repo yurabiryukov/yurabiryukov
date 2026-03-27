@@ -21,7 +21,7 @@
 
 **Контакты**:
 
-[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="35" align="center" alt="Contact me on Telegram" title="Contact me on Telegram"/>](https://t.me/yurabiryukov)
+[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="35" align="center" alt="Contact me on Telegram" title="Contact me on Telegram"/>](https://t.me/smileysimbol)
 [<img src="https://img.shields.io/badge/Yandex_Mail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" height="35" align="center" alt="Send me an email" title="Send me an email"/>](mailto:smile19x@yandex.ru)
 
 ---
